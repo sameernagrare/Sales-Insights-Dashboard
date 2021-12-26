@@ -1,5 +1,4 @@
-# Sales Insights of a Computer Hardware Business
+# Sales Insights Data Analysis Project
 * Data collected from Kaggle
-* Data Analysis using MySQL
 * ETL and Data cleansing in Power BI
-* Created Dashboard and published in Power BI
+* Built an automated Dashboard providing quick and latest sales insights using Power BI
